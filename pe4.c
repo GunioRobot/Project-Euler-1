@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
-#include<conio.h>
 int main(){
 unsigned long number, revnum, max;
 max = 0;
